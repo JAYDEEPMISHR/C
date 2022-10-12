@@ -1,0 +1,22 @@
+#include<stdio.h>
+main()
+{
+	printf("-------------------------------------menu-----------------------------------------");
+	printf("\nName");
+	printf("\t\t\tPrice");
+	printf("\n");
+	printf("\nBanana");
+	printf("\t\t\t50");
+	printf("\n");
+	printf("\nApple");
+	printf("\t\t\t100");
+	printf("\n");
+	printf("\nGraps");
+	printf("\t\t\t150");
+	printf("\n");
+	printf("\nPapaya");
+	printf("\t\t\t180");
+	printf("\n");
+	printf("\nCusterd apple");
+	printf("\t\t200");
+}
