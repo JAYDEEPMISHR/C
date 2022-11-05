@@ -25,14 +25,9 @@ main()
 	{
 		printf("Just Pass");
 	}
-	
-	else if(marks<35) // Marks less than 35
-	{
-		printf("Fail");
-	}
-	
+		
 	else
 	{
-		printf("Wrong Marks");
+		printf("Fail");
 	}
 }

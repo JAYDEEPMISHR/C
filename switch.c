@@ -36,6 +36,6 @@ main()
 		break;
 		
 		default:
-			printf("SOMETHING IS WRONG");
+		printf("SOMETHING IS WRONG");
 	}
 }
