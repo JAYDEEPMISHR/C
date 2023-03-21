@@ -3,7 +3,7 @@ main()
 {
 	int i,n;
 	int n1=0,n2=1;
-	int nextterm=n1+n2; // Initialize all term required for fibbonacci series
+	int nextterm=n1+n2;                        // Initialize all term required for fibbonacci series
 	printf("GIVE ONE NUMBER : ");
 	scanf("%d",&n);
 	

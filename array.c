@@ -6,4 +6,4 @@ main()
 	{
 		printf("%u\n",&array[i]); // Check variable size use %u 
 	}
-}
+}	
